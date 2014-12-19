@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SocketDemo</string>
+    <string name="client">Client</string>
+    <string name="server">Server</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="send_hint">Input send data!</string>
+    <string name="split">" : "</string>
+
+</resources>
